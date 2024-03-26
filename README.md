@@ -14,6 +14,6 @@ I'm Raja Mohideen, a passionate Data analyst with a love for coding and problem-
 - 🌐 Check out my Linkedin Profile:www.linkedin.com/in/rajamohideen
 
 🛠️ My Toolbox:
-- 🖥️ PostgreSQL, PowerBI
+- 🖥️ PostgreSQL, PowerBI, Microsoft office
 
 Thanks for visiting my GitHub! Let's create some amazing code together. 🚀
